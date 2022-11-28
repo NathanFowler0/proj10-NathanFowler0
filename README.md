@@ -1,1 +1,2 @@
-# proj10-NathanFowler0
+# cs112-proj10-assignment
+Nathan Fowler
